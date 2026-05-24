@@ -1,0 +1,14 @@
+/home/joao-victor/Biblioteca/bin/Debug/net10.0/Biblioteca
+/home/joao-victor/Biblioteca/bin/Debug/net10.0/Biblioteca.deps.json
+/home/joao-victor/Biblioteca/bin/Debug/net10.0/Biblioteca.runtimeconfig.json
+/home/joao-victor/Biblioteca/bin/Debug/net10.0/Biblioteca.dll
+/home/joao-victor/Biblioteca/bin/Debug/net10.0/Biblioteca.pdb
+/home/joao-victor/Biblioteca/obj/Debug/net10.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao-victor/Biblioteca/obj/Debug/net10.0/Biblioteca.AssemblyInfoInputs.cache
+/home/joao-victor/Biblioteca/obj/Debug/net10.0/Biblioteca.AssemblyInfo.cs
+/home/joao-victor/Biblioteca/obj/Debug/net10.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/joao-victor/Biblioteca/obj/Debug/net10.0/Biblioteca.dll
+/home/joao-victor/Biblioteca/obj/Debug/net10.0/refint/Biblioteca.dll
+/home/joao-victor/Biblioteca/obj/Debug/net10.0/Biblioteca.pdb
+/home/joao-victor/Biblioteca/obj/Debug/net10.0/Biblioteca.genruntimeconfig.cache
+/home/joao-victor/Biblioteca/obj/Debug/net10.0/ref/Biblioteca.dll
